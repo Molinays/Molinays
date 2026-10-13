@@ -16,7 +16,7 @@ I specialize in automation, scraping, and making computers do the boring work fo
 | ![Statistiche](https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=IL_TUO_USERNAME&layout=compact&theme=radical&hide_border=true) |
 | :---: | :---: |
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IL_TUO_USERNAME&theme=radical&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Molinays&theme=radical&hide_border=true)
 
 </div>
 
