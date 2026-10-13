@@ -2,12 +2,12 @@
 
 [🇮🇹 Italiano](https://github.com/Molinays/Molinays/blob/main/README.md) • [🇬🇧 English](https://github.com/Molinays/Molinays/blob/main/README.en.md)
 
-# ⚡ Benvenuto nel mio archivio ⚡
+# Molinays 
 
-**Dev dall'Italia 🇮🇹**
-Automazione, scraping, data preservation, reverse engineering e scripting Python. Se si può automatizzare, probabilmente ci sto già scrivendo uno script.
+**Italia >>**
+Sto provando a diventare un full-stack dev, il perché devo ancora scoprirlo..
 
-[Email](mailto:tuamail@esempio.com) • [Website](https://iltuosito.com) • [Instagram](https://instagram.com/tuoprofilo)
+[Portfolio](https://i.imgur.com/04c4E3W.jpeg) • [Archivio](https://moliarchive.ddns.net/) • [Discord](https://discord.com/users/958753896346566696)
 
 </div>
 
@@ -30,15 +30,11 @@ Automazione, scraping, data preservation, reverse engineering e scripting Python
 
 ### 🛠️ Programmi e Tool
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ae,pr,ps,blender,arduino,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ae,pr,ps,discord&theme=dark" />
 
 ### 🌐 Infrastruttura & Self-Hosting
 
-<img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,mysql,cloudflare,bots,raspberrypi&theme=dark" />
-
-### 📚 Sto imparando
-
-<img src="https://skillicons.dev/icons?i=rust,go,c,kubernetes,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,mysql,cloudflare,bots&theme=dark" />
 
 </div>
 
