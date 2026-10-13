@@ -2,12 +2,12 @@
 
 [🇮🇹 Italiano](https://github.com/Molinays/Molinays/blob/main/README.md) • [🇬🇧 English](https://github.com/Molinays/Molinays/blob/main/README.en.md)
 
-# ⚡ Welcome to my archive ⚡
+# Molinays
 
-**Dev from Italy 🇮🇹**
-Automation, scraping, data preservation, reverse engineering and Python scripting. If it can be automated, I'm probably writing a script for it right now.
+**Italy >>**
+Trying to become a full-stack dev, still figuring out why..
 
-[Email](mailto:tuamail@esempio.com) • [Website](https://iltuosito.com) • [Instagram](https://instagram.com/tuoprofilo)
+[Portfolio](https://i.imgur.com/04c4E3W.jpeg) • [Archive](https://moliarchive.ddns.net/) • [Discord](https://discord.com/users/958753896346566696)
 
 </div>
 
@@ -30,49 +30,12 @@ Automation, scraping, data preservation, reverse engineering and Python scriptin
 
 ### 🛠️ Apps and Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ae,pr,ps,blender,arduino,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ae,pr,ps,discord&theme=dark" />
 
 ### 🌐 Infrastructure & Self-Hosting
 
-<img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,mysql,cloudflare,bots,raspberrypi&theme=dark" />
-
-### 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=rust,go,c,kubernetes,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,mysql,cloudflare,bots&theme=dark" />
 
 </div>
 
 ---
-
-<div align="center">
-
-### 📦 Featured Projects
-
-| **Data Preservation** | **System & Utilities** |
-| :--- | :--- |
-| • **Kemono.su Downloader**<br>Robust scraping tool for archival purposes.<br><br>• **Coomer.su Downloader**<br>Automated content retrieval script.<br><br>• **PyR34 Downloader**<br>Bulk image preservation utility. | • **YouTube Downloader**<br>Custom tool for downloading and archiving videos.<br><br>• **Windows 10/11 Optimizer**<br>PowerShell script to clean and speed up Windows.<br><br>• **Discord Bot**<br>Multi-purpose bot for my private server.<br><br>• **Minecraft Ghost Client**<br>Private utility for Minecraft. |
-
-</div>
-
----
-
-<div align="center">
-
-### 🖥️ Hardware & Repairs
-
-I fix PCs better than I code. I collect **very old computers** and bring them back to life.
-I run a **self-hosted server** where I host my private site, **Nextcloud (3TB)** and my Minecraft server.
-
-### 🎬 Video Editing
-
-**Video Editor** – I work with: DaVinci Resolve • Filmora • Adobe Suite (Premiere, After Effects, Photoshop) • Vegas Pro
-
-</div>
-
----
-
-<div align="center">
-
-**Currently learning: Reverse Engineering & Cryptography**
-
-</div>
