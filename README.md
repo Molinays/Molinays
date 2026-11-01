@@ -2,21 +2,13 @@
 
 [🇮🇹 Italiano](https://github.com/Molinays/Molinays/blob/main/README.md) • [🇬🇧 English](https://github.com/Molinays/Molinays/blob/main/README.en.md)
 
-# Molinays 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Molinays;Full-Stack+Developer+in+progress;Self-Hosting+%26+Automation" alt="Typing SVG" />
 
-**Italia >>**
-Sto provando a diventare un full-stack dev, il perché devo ancora scoprirlo..
+**Italia** — Sto provando a diventare un full-stack dev, il perché devo ancora scoprirlo..
 
-[Portfolio](https://molinays.github.io/) • [Archivio](https://moliarchive.ddns.net/) • [Discord](https://discord.com/users/958753896346566696)
-
-</div>
-
----
-
-<div align="center">
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Molinays&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00bfff&icon_color=00bfff&text_color=00bfff&bg_color=0d1117) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Molinays&layout=compact&theme=dark&hide_border=true&title_color=00bfff&text_color=00bfff&bg_color=0d1117) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Molinays&theme=dark&hide_border=true&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=00bfff&currStreakNum=00bfff&sideNums=00bfff&dates=00bfff) |
-| :---: | :---: | :---: |
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=00bfff)](https://molinays.github.io/)
+[![Archivio](https://img.shields.io/badge/Archivio-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00bfff)](https://moliarchive.ddns.net/)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00bfff)](https://discord.com/users/958753896346566696)
 
 </div>
 
@@ -24,18 +16,27 @@ Sto provando a diventare un full-stack dev, il perché devo ancora scoprirlo..
 
 <div align="center">
 
-### 💻 Linguaggi che uso
-
-<img src="https://skillicons.dev/icons?i=py,cpp,js,lua,java,cs,kotlin,html,css,powershell&theme=dark" />
-
-### 🛠️ Programmi e Tool
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ae,pr,ps,discord&theme=dark" />
-
-### 🌐 Infrastruttura & Self-Hosting
-
-<img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,mysql,cloudflare,bots&theme=dark" />
+<img src="https://streak-stats.demolab.com/?user=Molinays&theme=dark&hide_border=true&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=00bfff&currStreakNum=00bfff&sideNums=00bfff&dates=00bfff" alt="Streak" />
 
 </div>
 
 ---
+
+<div align="center">
+
+### Linguaggi
+<img src="https://skillicons.dev/icons?i=py,cpp,js,lua,java,cs,kotlin,html,css,powershell&theme=dark" alt="Languages" />
+
+### Tool
+<!-- Icone base -->
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,discord&theme=dark" alt="Tools" />
+<br>
+<!-- Icone Adobe (formato alternativo per evitare il bug di skillicons) -->
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+
+### Infrastruttura
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,mysql,cloudflare,bots&theme=dark" alt="Infrastructure" />
+
+</div>
