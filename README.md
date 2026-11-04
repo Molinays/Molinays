@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Molinays;Full-Stack+Developer+in+progress;Self-Hosting+%26+Automation" alt="Typing SVG" />
 
-**Italia** — Sto provando a diventare un full-stack dev, il perché devo ancora scoprirlo..
+**Italia** — Sto provando a diventare un full-stack dev, il perché devo ancora scoprirlo...
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=00bfff)](https://molinays.github.io/)
 [![Archivio](https://img.shields.io/badge/Archivio-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00bfff)](https://moliarchive.ddns.net/)
